@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @borasenilesh828
-- 👀 I’m interested in java coding
-- 🌱 I’m currently learning MCA from the Sinhgad institute of management, Pune
-- 💞️ I’m looking to collaborate on developing the projects
-- 📫 How to reach me using my github id
-- 😄 Pronouns: borasenilesh  
-- ⚡ Fun fact: Time is money..
+Hi! I'm Nilesh Borase, persuing MCA from Sinhgad institute of management, Pune and Bachelor in Computer Science. I have a strong interest in web development and software projects, working with technologies like HTML, CSS, JavaScript, C# and .NET Framework, . Passionate about problem-solving and always eager to learn new tech, I enjoy building innovative solutions and refining my skills. When I'm not coding, I focus on improving my typing speed and exploring emerging technologies. Feel free to check out my projects and connect with me on GitHub or LinkedIn! 🚀
 
-<!---
-borasenilesh828/borasenilesh828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Github Link:- https://github.com/borasenilesh828
+Linkedin Link:- https://www.linkedin.com/in/nilesh-borase-392a11281
